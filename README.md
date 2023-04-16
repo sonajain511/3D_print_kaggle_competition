@@ -6,7 +6,7 @@ The goal of this competition is to label test images as containing under extrusi
 
 ## My Code 
 
-I have uploaded three different notebooks to this repo: new_notebook (1), validation?, and validation?. 
+I have uploaded three different notebooks to this repo: new_notebook (1), validation (2), and validation (3). 
 
 My test1.csv was produced from the new_notebook (1). It produced a relatively high F1 score (0.78956), but was rather inconsistent. On the other hand, the two validation notebooks produced lower scores, but seemed to have more consistency. 
 
