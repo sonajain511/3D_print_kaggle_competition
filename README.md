@@ -21,3 +21,13 @@ I ran my validation notebook again last night two times, which resulted in the v
 I decided to then try averaging the has_under_extrusion labels from test1.csv, validation_test1 (2).csv, and validation_test4 (2).csv and obtained a 0.85422 score. I then replaced validation_test4 (2).csv with the (3) csv and got a 0.8154 result. 
 
 It still makes me think though what we can do to tell whether or not averaging results from different runs of the same model or even from different models is a good idea/produces even better results. 
+
+## 4/18 Update to My Code 
+
+My apologies. I realized that my validation (3) and validation (4) notebooks are identical. Anyway, I averaged the results from the test1.csv, validation_test1 (2).csv, and validation_test4 (1).csv and got an f1 score of 0.85564. 
+
+Just to make some clarification though. 
+
+new-notebook generated test1.csv
+validation (2) generated validation_test1 (2).csv
+validation (3)/validation (4) generated validation_test4 (1).csv 
