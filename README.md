@@ -28,6 +28,6 @@ My apologies. I realized that my validation (3) and validation (4) notebooks are
 
 Just to make some clarification though. 
 
-new-notebook generated test1.csv
-validation (2) generated validation_test1 (2).csv
+new-notebook generated test1.csv,
+validation (2) generated validation_test1 (2).csv,
 validation (3)/validation (4) generated validation_test4 (1).csv 
