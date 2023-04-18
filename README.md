@@ -26,8 +26,4 @@ It still makes me think though what we can do to tell whether or not averaging r
 
 My apologies. I realized that my validation (3) and validation (4) notebooks are identical. Anyway, I averaged the results from the test1.csv, validation_test1 (2).csv, and validation_test4 (1).csv and got an f1 score of 0.85564. 
 
-Just to make some clarification though. 
-
-new-notebook generated test1.csv,
-validation (2) generated validation_test1 (2).csv,
-validation (3)/validation (4) generated validation_test4 (1).csv 
+Just to make some clarification though. new-notebook generated test1.csv, validation (2) generated validation_test1 (2).csv, and validation (3)/validation (4) generated validation_test4 (1).csv. I took the average has_under_extrusion score from those three files, put that average into a combo1.csv, and submitted the combo1.csv to the competition.   
